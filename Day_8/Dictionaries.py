@@ -9,7 +9,7 @@ student_dictionary = {
     "skills": ["procrastinating"],
     "country": "spain",
     "city": "jerez",
-    "address": "la granja",
+    "address": "la granjat",
 }
 print(len(student_dictionary))
 print(student_dictionary["skills"])
